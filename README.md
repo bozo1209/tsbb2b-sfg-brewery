@@ -1,3 +1,9 @@
+bozo tutorial doing
+
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/bozo1209/tsbb2b-sfg-brewery/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/bozo1209/tsbb2b-sfg-brewery/tree/master)
+
+
+
 # Testing Spring Boot B2G - SFG Brewery
 
 All source code examples in the repository are for my [Online Course - Testing Spring Beginner to Guru](https://www.udemy.com/testing-spring-boot-beginner-to-guru/?couponCode=GITHUB_REPO)
